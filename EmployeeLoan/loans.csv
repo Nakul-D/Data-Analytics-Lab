@@ -1,0 +1,7 @@
+LoanID,EmployeeID,LoanApplied,LoanAmount
+201,101,true,150000
+202,104,true,200000
+203,106,true,250000
+204,108,true,180000
+205,109,true,120000
+210,105,true,110000

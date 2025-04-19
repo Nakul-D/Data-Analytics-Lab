@@ -1,0 +1,51 @@
+TransactionID,Product,Amount,Date
+1,Laptop,1200.00,2025-04-12
+2,Keyboard,75.00,2025-04-12
+3,Mouse,25.00,2025-04-12
+4,Monitor,300.00,2025-04-12
+5,Webcam,50.00,2025-04-12
+6,Headphones,100.00,2025-04-13
+7,Laptop Bag,45.00,2025-04-13
+8,External Hard Drive,120.00,2025-04-13
+9,Software License,199.00,2025-04-13
+10,Desk Chair,250.00,2025-04-13
+11,Mousepad,15.00,2025-04-14
+12,Printer,150.00,2025-04-14
+13,Ink Cartridge,30.00,2025-04-14
+14,Tablet,350.00,2025-04-14
+15,Stylus,35.00,2025-04-14
+16,Laptop,1150.00,2025-04-15
+17,Charger,40.00,2025-04-15
+18,Docking Station,180.00,2025-04-15
+19,USB Hub,20.00,2025-04-15
+20,Speaker,80.00,2025-04-15
+21,Ergonomic Mouse,40.00,2025-04-16
+22,Standing Desk Converter,300.00,2025-04-16
+23,Cable Organizer,12.00,2025-04-16
+24,Screen Protector,18.00,2025-04-16
+25,Wireless Router,70.00,2025-04-16
+26,Projector,500.00,2025-04-17
+27,Projector Screen,120.00,2025-04-17
+28,HDMI Cable,15.00,2025-04-17
+29,Cleaning Kit,25.00,2025-04-17
+30,Paper Pack,10.00,2025-04-17
+31,Gaming Mouse,60.00,2025-04-18
+32,Gaming Keyboard,120.00,2025-04-18
+33,Gaming Headset,90.00,2025-04-18
+34,Game Controller,45.00,2025-04-18
+35,VR Headset,400.00,2025-04-18
+36,Laptop,1300.00,2025-04-19
+37,External SSD,150.00,2025-04-19
+38,Portable Monitor,250.00,2025-04-19
+39,Drawing Tablet,200.00,2025-04-19
+40,Adapters,30.00,2025-04-19
+41,Webcam,65.00,2025-04-12
+42,Speaker,95.00,2025-04-13
+43,Stylus,40.00,2025-04-14
+44,USB Hub,25.00,2025-04-15
+45,Screen Protector,20.00,2025-04-16
+46,Ink Cartridge,35.00,2025-04-17
+47,Game Controller,50.00,2025-04-18
+48,Charger,45.00,2025-04-19
+49,Docking Station,200.00,2025-04-12
+50,Headphones,110.00,2025-04-13

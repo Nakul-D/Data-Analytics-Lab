@@ -1,0 +1,20 @@
+TransactionDate,Product,Price,PaymentType,Name,City,State,Country,AccountCreated,LastLogin,Latitude,Longitude
+2024-04-10,Phone,199.99,Credit Card,John Doe,New York,NY,USA,2021-05-23,2024-04-09,40.712776,-74.005974
+2023-11-02,Laptop,899.50,Debit Card,Jane Smith,Los Angeles,CA,USA,2019-03-11,2023-11-01,34.052235,-118.243683
+2024-01-15,Tablet,150.75,PayPal,Bob Johnson,Chicago,IL,USA,2022-08-30,2024-01-14,41.878113,-87.629799
+2023-10-28,Headphones,45.99,Cash,Mary Brown,Houston,TX,USA,2020-06-22,2023-10-27,29.760427,-95.369804
+2024-02-01,Camera,350.25,Debit Card,James Williams,Miami,FL,USA,2018-12-10,2024-02-01,25.761680,-80.191790
+2023-12-05,Smartwatch,129.99,PayPal,Alice Davis,Dallas,TX,USA,2021-07-13,2023-12-04,32.776665,-96.796989
+2024-03-20,Keyboard,30.50,Credit Card,Charlie Miller,Boston,MA,USA,2020-04-18,2024-03-19,42.360081,-71.058884
+2023-09-22,Monitor,250.99,Debit Card,Daniel Garcia,San Francisco,CA,USA,2021-01-25,2023-09-21,37.774929,-122.419418
+2024-02-15,Printer,80.00,Cash,Emma Martinez,Austin,TX,USA,2022-06-05,2024-02-14,30.267153,-97.743061
+2023-08-30,Speaker,99.99,PayPal,Frank Wilson,Seattle,WA,USA,2020-11-09,2023-08-29,47.606209,-122.332069
+2024-04-15,Shirt,25.75,Credit Card,Kate Adams,London,England,UK,2021-11-20,2024-04-14,51.507351,-0.127758
+2023-07-11,Jacket,120.00,Debit Card,David Thomas,Montreal,Quebec,Canada,2020-10-05,2023-07-10,45.421530,-75.697193
+2024-03-05,Smartphone Case,15.99,Cash,Michael Clark,Berlin,Berlin,Germany,2022-09-14,2024-03-04,52.520008,13.404954
+2023-10-22,Camera Lens,200.50,PayPal,Linda Scott,Mumbai,Maharashtra,India,2019-02-18,2023-10-21,19.076090,72.877426
+2024-02-25,Smartwatch Band,30.75,Debit Card,Chris Young,Paris,Ile-de-France,France,2021-06-30,2024-02-24,48.856614,2.352222
+2023-08-15,Glasses,45.00,Credit Card,Laura Martinez,Toronto,Ontario,Canada,2020-07-08,2023-08-14,43.653225,-79.383186
+2024-01-25,Backpack,60.00,Cash,James Taylor,Edinburgh,Scotland,UK,2022-03-12,2024-01-24,55.953251,-3.188267
+2023-09-10,Microwave,100.99,PayPal,Susan Wilson,Munich,Bavaria,Germany,2021-12-05,2023-09-09,48.135125,11.581981
+2024-03-17,Desk Lamp,40.00,Debit Card,John Walker,Bangalore,Karnataka,India,2020-06-15,2024-03-16,12.971599,77.594566
